@@ -72,6 +72,6 @@ async def stop(ctx):
         ctx.voice_client.stop()
         await ctx.send('**Music stopped!**')
 
-bot.run('MTMxMzQ3MDQ5Mzk4NjI1ODk3NA.GlgLtK.bxzAOX20u0DmcnPqDfpQzHOlTLpJVGmZo4yyio')
+bot.run('TOKEN')
 
 
